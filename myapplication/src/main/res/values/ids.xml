@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tOk" type="id" />
+    <item name="btnOk" type="id" />
+    <item name="btnCancel" type="id" />
+    <item name="buttonOk" type="id" />
+    <item name="buttonCancel" type="id" />
+    <item name="tvOut" type="id" />
+</resources>
